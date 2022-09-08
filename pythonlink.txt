@@ -1,0 +1,3 @@
+https://us02web.zoom.us/j/83870283395?pwd=RXN4a3ZKUDhabDM0Wm1wT2Z3cW5rdz09#success
+cd c:\xampp\mysql\bin
+mysql.exe -u root --password
